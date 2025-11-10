@@ -1,2 +1,2 @@
 # Frogger
-Making Frogger In Assembly And C++ For My Final Project In CSI-360 Computer Architecture
+Remaking Frogger by using Assembly Language and C++ with an external library OpenGL. 
